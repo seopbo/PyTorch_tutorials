@@ -20,3 +20,9 @@
 #### [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 * [What_is_torch.nn_really?.ipynb](https://nbviewer.jupyter.org/github/aisolab/PyTorch_tutorials/blob/master/Getting_Started/What_is_torch.nn_really%3F/What_is_torch.nn_really%3F.ipynb)
 
+## torchtext
+
+## snippets
+* [torch.nn.utils.rnn.ipynb](https://nbviewer.jupyter.org/github/aisolab/PyTorch_tutorials/blob/master/snippets/torch.nn.utils.rnn.ipynb)
+## CS230
+* [Introduction_to_PyTorch_Code_Examples.ipynb](https://nbviewer.jupyter.org/github/aisolab/PyTorch_tutorials/blob/master/CS230/Introduction_to_PyTorch_Code_Examples.ipynb)
